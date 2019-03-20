@@ -7,6 +7,7 @@ Post
   Payload: content (markdown script)
   Index1: query
   Index2: location
+  Index3: reserved
   
 Babel live link:
 https://babel.bitdb.network/query/1DHDifPvtPgKFPZMRSxmVHhiPvFmxZwbfh/ewogICJ2IjogMywKICAicSI6IHsKICAgICJmaW5kIjogeyJvdXQuczEiOiIxNmFuSkJKSFZ4Um14ZjY4TG5XRld5dmZjTDJuU25na2NmIn0sCiAgICAibGltaXQiOiAxMAogIH0KfQ==
@@ -17,6 +18,7 @@ Comment
   BitCom: 1PfkPwPfZamZEeKuhtCpnZuY6hmkue9EgA
   Payload: content (markdown script)
   Index1: tx_id
+  Index2: reserved
 
 Babel live link:
 https://babel.bitdb.network/query/1DHDifPvtPgKFPZMRSxmVHhiPvFmxZwbfh/ewogICJ2IjogMywKICAicSI6IHsKICAgICJmaW5kIjogeyJvdXQuczEiOiIxUGZrUHdQZlphbVpFZUt1aHRDcG5adVk2aG1rdWU5RWdBIn0sCiAgICAibGltaXQiOiAxMAogIH0KfQ==
