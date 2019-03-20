@@ -1,7 +1,7 @@
 # bclist protocl
 # The protocal follow the practice described in http://bitcom.bitdb.network
 
-<b>Post</b>
+Post
   OPRETURN
   Bitcom: 16anJBJHVxRmxf68LnWFWyvfcL2nSngkcf 
   Payload: content (markdown script)
@@ -12,7 +12,7 @@ Babel live link:
 https://babel.bitdb.network/query/1DHDifPvtPgKFPZMRSxmVHhiPvFmxZwbfh/ewogICJ2IjogMywKICAicSI6IHsKICAgICJmaW5kIjogeyJvdXQuczEiOiIxNmFuSkJKSFZ4Um14ZjY4TG5XRld5dmZjTDJuU25na2NmIn0sCiAgICAibGltaXQiOiAxMAogIH0KfQ==
 
 
-<b>Comment</b>
+Comment
   OPRETURN
   BitCom: 1PfkPwPfZamZEeKuhtCpnZuY6hmkue9EgA
   Payload: content (markdown script)
