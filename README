@@ -1,15 +1,24 @@
 # bclist protocal
 # The protocal follow the practice described in http://bitcom.bitdb.network
 
-Post
+<b>Post</b>
   OPRETURN
   Bitcom: 16anJBJHVxRmxf68LnWFWyvfcL2nSngkcf 
-  Payload: content
+  Payload: content (markdown script)
   Index1: query
   Index2: location
+  
+Babel live link:
+https://babel.bitdb.network/query/1DHDifPvtPgKFPZMRSxmVHhiPvFmxZwbfh/ewogICJ2IjogMywKICAicSI6IHsKICAgICJmaW5kIjogeyJvdXQuczEiOiIxNmFuSkJKSFZ4Um14ZjY4TG5XRld5dmZjTDJuU25na2NmIn0sCiAgICAibGltaXQiOiAxMAogIH0KfQ==
 
-Comment
+
+<b>Comment</b>
   OPRETURN
   BitCom: 1PfkPwPfZamZEeKuhtCpnZuY6hmkue9EgA
-  Payload: content 
+  Payload: content (markdown script)
   Index1: tx_id
+
+Babel live link:
+https://babel.bitdb.network/query/1DHDifPvtPgKFPZMRSxmVHhiPvFmxZwbfh/ewogICJ2IjogMywKICAicSI6IHsKICAgICJmaW5kIjogeyJvdXQuczEiOiIxUGZrUHdQZlphbVpFZUt1aHRDcG5adVk2aG1rdWU5RWdBIn0sCiAgICAibGltaXQiOiAxMAogIH0KfQ==
+
+* The payload only contains readable content, all script will be removed and ignored.
