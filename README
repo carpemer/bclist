@@ -1,0 +1,14 @@
+# bclist protocal
+
+Post
+  OPRETURN
+  Bitcom: 16anJBJHVxRmxf68LnWFWyvfcL2nSngkcf 
+  Payload: content
+  Index1: query
+  Index2: location
+
+Comment
+  OPRETURN
+  BitCom: 1PfkPwPfZamZEeKuhtCpnZuY6hmkue9EgA
+  Payload: content 
+  Index1: tx_id
