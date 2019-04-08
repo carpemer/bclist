@@ -3,14 +3,15 @@
 Summary:
   - Money button and any BSV wallet scan to submit the content to blockchain.
   - 2 level index for post.
-  - Submit and index long text post.
-  - Tip any post author.
+  - Could submit long text post.
+  - Tip any post author by scan or money button.
   - Full text search support.
   - UTF-8 character.
   - Comment feature.
   - Protocol follows the practice in http://bitcom.bitdb.network 
 
 Post:
+  Bitcom: 16anJBJHVxRmxf68LnWFWyvfcL2nSngkcf 
   Spec:
     OPRETURN
     Bitcom: 16anJBJHVxRmxf68LnWFWyvfcL2nSngkcf 
@@ -37,6 +38,7 @@ Post:
     - blk: blk number, null means this transaction is in memory pool.
 
 Comment:
+  Bitcom: 1PfkPwPfZamZEeKuhtCpnZuY6hmkue9EgA
   Spec:
     OPRETURN
     BitCom: 1PfkPwPfZamZEeKuhtCpnZuY6hmkue9EgA
