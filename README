@@ -9,6 +9,7 @@ Summary:
   - UTF-8 character.
   - Comment feature.
   - Protocol follows the practice in http://bitcom.bitdb.network 
+  - B:// supoort in post.
 
 Post:
   Bitcom: 16anJBJHVxRmxf68LnWFWyvfcL2nSngkcf 
